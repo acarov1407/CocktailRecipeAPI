@@ -1,0 +1,29 @@
+
+
+header {
+  color: white;
+  text-align: center;
+}
+header h1 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 900;
+}
+
+.button{
+  font-family: 'Outfit', sans-serif !important;
+  font-size: 1rem !important;
+  color: var(--bs-gray-200) !important;
+
+
+}
+
+ul{
+  padding: 0;
+}
+
+.favorites__trigger{
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
